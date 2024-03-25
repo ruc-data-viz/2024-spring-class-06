@@ -8,3 +8,4 @@ Today's class will focus on:
 * Polynomial fitting
 * Limits of correlation: nonlinear data, small sample sizes, clustered data, outliers
 * Detecting nonlinear relationships with mutual information
+* Introduction to widgets in MatPlotLib
