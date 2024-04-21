@@ -1,4 +1,4 @@
-# 2024-spring-class-06
+# Class 06: Correlation, Fitting, and Mutual Information
 
 Today's class will focus on:
 
